@@ -70,3 +70,13 @@ Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos e,
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNaahSchmitt101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaahSchmitt/NaahSchmitt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaahSchmitt/NaahSchmitt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaahSchmitt/NaahSchmitt/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
